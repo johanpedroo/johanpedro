@@ -1,6 +1,6 @@
 <template>
   <nav id="menu">
-    <a href="#home"><logo class="logo-menu" color="white"></logo></a>
+    <!--<a href="#home"><logo class="logo-menu" color="white"></logo></a>-->
     <ul>
       <li data-menuanchor="home"><a href="#home">Home</a></li>
       <li data-menuanchor="contato"><a href="#contato">Contato</a></li>
