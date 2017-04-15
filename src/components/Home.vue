@@ -44,7 +44,7 @@
       z-index 100
     #sectionl
       .fp-bg
-        background-image: url('/static/bg.jpg');
+        background-image: url('../../static/bg.jpg');
         background-size: cover;
         background-position: center 30%;
         width 100vw
